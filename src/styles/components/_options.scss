@@ -1,0 +1,31 @@
+
+.option-container {
+    background: #464B5E;
+    margin : 0 auto;
+    padding: $m-size $m-size;
+}
+
+.delete-all {
+    border: #464B5E;
+    background:#3C4251;
+    padding: $m-size $s-size;
+    font-size: $m-size;
+}
+
+.option{
+    border:black;
+    background:#3C4251;
+    padding: $m-size $s-size;
+    font-size: $m-size;
+    color: $off-white;
+    margin: $m-size $s-size;
+}
+
+.input{
+    font-size: $m-size;
+    background: #3C4251;
+    width: 84%;
+    margin-top: $m-size;
+    margin-right: $m-size;
+    height: $l-size;
+}
